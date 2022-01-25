@@ -1,0 +1,3 @@
+print("Hi, this is an example")
+a = 10
+b=20
